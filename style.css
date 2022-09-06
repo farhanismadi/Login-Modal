@@ -1,0 +1,12 @@
+body {
+  background-color: rgb(0, 212, 255);
+  background: linear-gradient(
+    90deg,
+    rgba(0, 212, 255, 1) 0%,
+    rgba(32, 32, 157, 1) 100%
+  );
+}
+
+.container {
+  width: 300px;
+}
